@@ -1,0 +1,76 @@
+<?xml  version="1.0" encoding="UTF-8" ?>
+<SamsungMobileFeauture>
+  <Version>ED003</Version>
+  <Country>INDIA</Country>
+  <CountryISO>IN</CountryISO>
+  <SalesCode>INS</SalesCode>
+  <FeatureSet>
+    <CscFeature_Common_DisablePhoneNumberFormatting>TRUE</CscFeature_Common_DisablePhoneNumberFormatting>
+    <CscFeature_Framework_EnableHarfbuzz>TRUE</CscFeature_Framework_EnableHarfbuzz>
+    <CscFeature_FMRadio_RecordingVolumeAs>11</CscFeature_FMRadio_RecordingVolumeAs>
+    <CscFeature_FMRadio_DisableMenuInternetRadio>TRUE</CscFeature_FMRadio_DisableMenuInternetRadio>
+    <CscFeature_Web_EnableAutoSimHomeUrlInProfile>FALSE</CscFeature_Web_EnableAutoSimHomeUrlInProfile>
+    <CscFeature_RIL_DisplayRatInfoInManualNetSearchList>TRUE</CscFeature_RIL_DisplayRatInfoInManualNetSearchList>
+    <CscFeature_Web_ConfigDomainKeepIdleConnection>digilocker.gov.in</CscFeature_Web_ConfigDomainKeepIdleConnection>
+    <CscFeature_RIL_SupportUssdWithSharpChar>TRUE</CscFeature_RIL_SupportUssdWithSharpChar>
+    <CscFeature_RIL_EnableRoamingIcon4NationalRoaming>TRUE</CscFeature_RIL_EnableRoamingIcon4NationalRoaming>
+    <CscFeature_RIL_IgnoreNitzNetworkName>TRUE</CscFeature_RIL_IgnoreNitzNetworkName>
+    <CscFeature_RIL_EnableCallBarringConnectToUssd>TRUE</CscFeature_RIL_EnableCallBarringConnectToUssd>
+    <CscFeature_RIL_EnableLaunchBrowser>TRUE</CscFeature_RIL_EnableLaunchBrowser>
+    <CscFeature_RIL_RemoveToastDuringStkRefresh>FALSE</CscFeature_RIL_RemoveToastDuringStkRefresh>
+    <CscFeature_RIL_UssdErrorDoNotDisplay>TRUE</CscFeature_RIL_UssdErrorDoNotDisplay>
+    <CscFeature_Web_DisableMostVisitedHomepage>TRUE</CscFeature_Web_DisableMostVisitedHomepage>
+    <CscFeature_SNote_AddOnFontConfig>SWA</CscFeature_SNote_AddOnFontConfig>
+    <CscFeature_VoiceCall_TunnigCallWaitingToneAs>80</CscFeature_VoiceCall_TunnigCallWaitingToneAs> 
+    <CscFeature_VoiceCall_DisableGeoDescription>TRUE</CscFeature_VoiceCall_DisableGeoDescription>
+    <CscFeature_Message_ConfigImeiTracker>+919560345888</CscFeature_Message_ConfigImeiTracker>
+    <CscFeature_Contact_RemoveActionBarTitle>TRUE</CscFeature_Contact_RemoveActionBarTitle>
+	<CscFeature_SyncML_SwUpdateActionDuringRoaming>roaminginfo</CscFeature_SyncML_SwUpdateActionDuringRoaming>
+    <CscFeature_RIL_CurrentPlmnIndCheck>TRUE</CscFeature_RIL_CurrentPlmnIndCheck>
+    <CscFeature_Contact_ConfigImsOpStyle>INS</CscFeature_Contact_ConfigImsOpStyle>
+	<CscFeature_FMRadio_SetLocalTunning>-113,-2,2,1</CscFeature_FMRadio_SetLocalTunning>
+    <CscFeature_Setting_HideApnList>ims,IMS</CscFeature_Setting_HideApnList>
+    <CscFeature_RIL_ForceConnectIMS>TRUE</CscFeature_RIL_ForceConnectIMS>
+    <CscFeature_RIL_EnablePlmnNameIndReporting>TRUE</CscFeature_RIL_EnablePlmnNameIndReporting>
+    <CscFeature_RIL_ConfigWbamr>2G</CscFeature_RIL_ConfigWbamr>
+	<CscFeature_RIL_DisableEons>TRUE</CscFeature_RIL_DisableEons>
+    <CscFeature_RIL_SupportVolteVtCall>TRUE</CscFeature_RIL_SupportVolteVtCall>
+    <CscFeature_RIL_ConfigNetworkStatusIcon>DC</CscFeature_RIL_ConfigNetworkStatusIcon>
+	<!-- <CscFeature_RIL_SupportEpdg>true</CscFeature_RIL_SupportEpdg>
+	<CscFeature_RIL_SupportEpdgOnAirplaneMode>true</CscFeature_RIL_SupportEpdgOnAirplaneMode>
+	<CscFeature_Common_ConfigEmergencyModePackages>com.ipsec.service,com.sec.android.providers.iwlansettings,com.sec.android.providers.mapcon</CscFeature_Common_ConfigEmergencyModePackages> -->
+
+    <!-- IMS -->
+    <CscFeature_IMS_EnableIMS>true</CscFeature_IMS_EnableIMS>
+    <CscFeature_IMS_EnableRCSe>false</CscFeature_IMS_EnableRCSe>
+    <CscFeature_IMS_EnableVoLTE>true</CscFeature_IMS_EnableVoLTE>
+    <CscFeature_IMS_EnableLTEVideoCall>false</CscFeature_IMS_EnableLTEVideoCall>
+    <CscFeature_IMS_EnableRCSPresence>false</CscFeature_IMS_EnableRCSPresence>
+	<CscFeature_NFC_DefStatus>OFF</CscFeature_NFC_DefStatus>
+    <CscFeature_IMS_FrameworkVersion>5.0</CscFeature_IMS_FrameworkVersion>
+    <!-- Networkmode for RJIL -->
+    <CscFeature_Setting_EnableEditingIpVersionType>TRUE</CscFeature_Setting_EnableEditingIpVersionType>
+    <CscFeature_mCommerce_WalletMgrConfig>Disable</CscFeature_mCommerce_WalletMgrConfig>
+    <CscFeature_Setting_IncludeApn4SwUpdate>true</CscFeature_Setting_IncludeApn4SwUpdate>
+
+    <!-- Emergency call for RJIL -->
+    <CscFeature_RIL_SsRoutingPolicy>ims</CscFeature_RIL_SsRoutingPolicy>
+    <CscFeature_RIL_UssdRoutingPolicy>ims</CscFeature_RIL_UssdRoutingPolicy>
+    <CscFeature_RIL_E911RoutingPolicy>qmisrchmdm</CscFeature_RIL_E911RoutingPolicy>
+
+    <CscFeature_Setting_ReplaceLabel4DualSim>Smart dual SIM</CscFeature_Setting_ReplaceLabel4DualSim>
+   <CscFeature_RIL_SupportImsService>TRUE</CscFeature_RIL_SupportImsService>
+   <CscFeature_RIL_SupportVolte>TRUE</CscFeature_RIL_SupportVolte>
+   <CscFeature_RIL_SetVolteAudioPath>TRUE</CscFeature_RIL_SetVolteAudioPath>
+   <CscFeature_SmartManager_ConfigSubFeatures>roguepopup|autoclean|autorestart|UDS</CscFeature_SmartManager_ConfigSubFeatures>
+   <CscFeature_SmartManager_ConfigDashboard>dual_dashboard</CscFeature_SmartManager_ConfigDashboard>
+
+   <CscFeature_Common_SupportWiFiCalling>false</CscFeature_Common_SupportWiFiCalling>
+   
+   <!-- Changeable Themes for India -->
+   <CscFeature_Launcher_ThemeEnable>TRUE</CscFeature_Launcher_ThemeEnable>
+   <CscFeature_Theme_ScrollablePageSupport>TRUE</CscFeature_Theme_ScrollablePageSupport>
+
+
+  </FeatureSet>
+</SamsungMobileFeauture>

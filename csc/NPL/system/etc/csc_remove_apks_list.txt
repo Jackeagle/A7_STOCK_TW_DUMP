@@ -1,0 +1,3 @@
+/system/app/IPsecService/IPsecService.apk
+/system/app/MixRadio/MixRadio.apk
+/system/app/MyGalaxy/MyGalaxy.apk
