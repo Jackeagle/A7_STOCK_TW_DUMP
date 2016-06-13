@@ -1,0 +1,2 @@
+/system/app/IPsecService/IPsecService.apk
+/system/app/MyGalaxy/MyGalaxy.apk

@@ -1,0 +1,3 @@
+/system/app/AutoBackup_release/AutoBackup_release.apk
+/system/app/OperaMax/OperaMax.apk
+/system/app/PreinstallProvider/PreinstallProvider.apk
