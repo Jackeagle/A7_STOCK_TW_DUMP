@@ -1,0 +1,2 @@
+/system/priv-app/MyAccessories-02-11-2015-15-12-21_AndroidVFSigned/MyAccessories-02-11-2015-15-12-21_AndroidVFSigned.apk
+/system/priv-app/VodaMMS_4.5.337_Release-UNSIGNED_10-02-2016-09-13-30_AndroidVFSigned_zipaligned/VodaMMS_4.5.337_Release-UNSIGNED_10-02-2016-09-13-30_AndroidVFSigned_zipaligned.apk

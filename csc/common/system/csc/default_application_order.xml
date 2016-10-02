@@ -1,0 +1,32 @@
+<appOrder
+xmlns:launcher="http://schemas.android.com/apk/res/com.sec.android.app.launcher"
+>
+    <!-- Discover -->
+    <favorite
+        launcher:packageName="com.vodafone.smhs" 
+        launcher:className="com.vodafone.smhs.activities.HostActivity" 
+        launcher:screen="0" 
+        launcher:AppOrder_isFrontPosition="true"/> 
+
+    <!-- My Web -->
+    <favorite
+        launcher:packageName="com.vodafone.android.myweb.launcher" 
+        launcher:className="com.vodafone.android.myweb.launcher.MyWebLauncherActivity" 
+        launcher:screen="0"
+        launcher:AppOrder_isFrontPosition="true"/>
+
+    <!-- Protect -->
+    <favorite
+        launcher:packageName="com.wsandroid.suite.vodaemea" 
+        launcher:className="com.mcafee.app.LauncherDelegateActivity" 
+        launcher:screen="0" 
+        launcher:AppOrder_isFrontPosition="true"/> 
+		
+    <!-- Updates -->
+    <favorite
+        launcher:packageName="com.vodafone.vodafone360updates" 
+        launcher:className="com.vodafone.vodafone360updates.gui.activity.AllServicesActivity" 
+        launcher:screen="0" 
+        launcher:AppOrder_isFrontPosition="true"/> 
+
+</appOrder>

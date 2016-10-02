@@ -1,0 +1,16 @@
+<?xml  version="1.0" encoding="UTF-8" ?>
+<SW-Configuration>
+	<MobileData>
+	<PublicName>SM-A500FU</PublicName>
+	</MobileData>
+	<CustomerDataSet>
+	<CSCName>A500FUVFR</CSCName>
+	<CSCVersion>1CPG2</CSCVersion>
+	<NbCustomer>5</NbCustomer>
+	<CustomerData src="/Customer/ATL/customer.xml" />
+	<CustomerData src="/Customer/OMN/customer.xml" />
+	<CustomerData src="/Customer/VD2/customer.xml" />
+	<CustomerData src="/Customer/VDF/customer.xml" />
+	<CustomerData src="/Customer/VOD/customer.xml" />
+	</CustomerDataSet>
+</SW-Configuration>
